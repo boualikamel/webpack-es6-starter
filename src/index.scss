@@ -1,6 +1,6 @@
-$h1BGColor :gray;
+@import './app/layouts/header/header';
+@import './app/layouts/main/main';
 
-h1{
-    background-color: $h1BGColor;
-    user-select: none;
+body{
+  margin: 0;
 }
