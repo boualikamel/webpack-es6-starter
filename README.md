@@ -1,4 +1,4 @@
-# starter-webpack
+# webpack-es6-starter
 
 This is a starter of configuration a webpack starter with ES6 and SASS technologies.
 
