@@ -37,7 +37,8 @@ npm run build:prod
 ```
 
 ## Features
-* ES6 Support via [babel](https://babeljs.io/)
-* SASS Support via [sass-loader](https://github.com/jtangelder/sass-loader)
-* POST CSS Support via [postcss-loader](https://github.com/postcss/postcss-loader)
-* HTML Loader Support [html-loader](https://github.com/webpack-contrib/html-loader)
+* WEBPACK Support via [webpack](https://webpack.js.org/)
+* ES6 Support via [babel](https://babeljs.io/).
+* SASS Support via [sass-loader](https://github.com/jtangelder/sass-loader).
+* POST CSS Support via [postcss-loader](https://github.com/postcss/postcss-loader).
+* HTML Loader Support [html-loader](https://github.com/webpack-contrib/html-loader).
