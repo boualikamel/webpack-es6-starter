@@ -2,25 +2,35 @@
 
 this repo aims to introduce people to a webpack configuration with ES6 and SASS technologies with an adaptation of the concept of separation of concerns
 
+## Getting Started
+
+This is a simple starter with all necessary tools for fast prototyping in Vanilla JS. You can use the newest features of Javascript fast and easily. Also, in the stater I included sass technologie for reusability of development comfort
+### Screenshot
 ![Capture](https://user-images.githubusercontent.com/37594056/72417120-7fec0980-3778-11ea-89ba-4253a952cd26.PNG)
 
-## install dependencies
+### Prerequisites
+You should have installed node and nodejs.
+
+
+### install dependencies
 ```
 npm install
 ```
 
-## start webpack-dev-server
+## start development server 
+For starting the app in a development server we use here webpack-dev-server and you can just run this cmd
 ```
 npm start
 ```
 
 
-## generate a development build 
+## generate a build 
+### development build 
 ```
 npm run build:dev
 ```
 
-## generate a production build 
+### production build 
 ```
 npm run build:prod
 ```
