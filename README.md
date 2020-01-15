@@ -1,6 +1,6 @@
 # webpack-es6-starter
 
-This is a starter of configuration a webpack starter with ES6 and SASS technologies.
+this repo aims to introduce people to a webpack configuration with ES6 and SASS technologies with an adaptation of the concept of separation of concerns
 
 ![Capture](https://user-images.githubusercontent.com/37594056/72417120-7fec0980-3778-11ea-89ba-4253a952cd26.PNG)
 
@@ -24,5 +24,3 @@ npm run build:dev
 ```
 npm run build:prod
 ```
-
-This readme is in progress.
