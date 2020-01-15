@@ -6,7 +6,7 @@ this repo aims to introduce people to a webpack configuration with ES6 and SASS 
 
 This is a simple starter with all necessary tools for fast prototyping in Vanilla JS. You can use the newest features of Javascript fast and easily. Also, in the stater i included sass that make writing CSS more extensible.
 
-(live-preview)(https://boualikamel.github.io/webpack-es6-starter/)
+[live-preview](https://boualikamel.github.io/webpack-es6-starter/)
 ### Screenshot
 ![Capture](https://user-images.githubusercontent.com/37594056/72417120-7fec0980-3778-11ea-89ba-4253a952cd26.PNG)
 
