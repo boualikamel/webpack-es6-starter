@@ -1,0 +1,1 @@
+header{top:0;height:50px;background-color:#4b6e8a}header,main{position:absolute;width:100%}main{background-color:#dfffab;bottom:0;height:calc(100% - 50px)}main .logo{top:65%;width:40%}main .logo,main .logo-webpack{position:absolute;left:50%;transform:translate(-50%,-50%)}main .logo-webpack{top:31%;width:9%}body{margin:0}
