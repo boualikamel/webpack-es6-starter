@@ -1,4 +1,4 @@
-# webpack-es6-starter
+# Webpack ES6 Starter
 
 this repo aims to introduce people to a webpack configuration with ES6 and SASS technologies with an adaptation of the concept of separation of concerns
 
